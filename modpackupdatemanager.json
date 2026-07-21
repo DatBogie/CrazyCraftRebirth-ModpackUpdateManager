@@ -1,0 +1,11 @@
+{
+    "Versions": [
+        {
+            "Id": "1.0",
+            "Name": "r1.0",
+            "Type": "release",
+            "Changelog": []
+        }
+    ],
+
+}
