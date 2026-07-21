@@ -1,9 +1,10 @@
 {
     "Versions": [
         {
-            "Id": "1.0",
-            "Name": "r1.0",
+            "Id": "1.0.0",
             "Type": "release",
+            "Name": "Base Version",
+            "Description": "",
             "Changelog": []
         }
     ],
