@@ -6,6 +6,15 @@
             "Name": "Base Version",
             "Description": "",
             "Changelog": []
+        },
+        {
+            "Id": "1.0.1",
+            "Type": "release",
+            "Name": "Test Version",
+            "Description": "Test [website](https://datbogie.org)",
+            "Changelog": [
+                { "Addition": true, "Name": "file", "Required": true }
+            ]
         }
     ]
 
