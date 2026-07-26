@@ -13,8 +13,9 @@
             "Name": "Test Version",
             "Description": "Test [website](https://datbogie.org)",
             "Changelog": [
-                { "ChangeType": "+", "Path": "mods/file", "Required": true },
-                { "ChangeType": "+", "Path": "mods/file copy", "Required": false }
+                { "ChangeType": "-", "Path": "mods/modpack-update-checker-1.20.1-forge-0.15.6.jar", "Required": true }
+                { "ChangeType": "-", "Path": "mods/file", "Required": true }
+                { "ChangeType": "-", "Path": "mods/file copy", "Required": true }
             ]
         }
     ]
