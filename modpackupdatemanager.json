@@ -13,7 +13,8 @@
             "Name": "Test Version",
             "Description": "Test [website](https://datbogie.org)",
             "Changelog": [
-                { "ChangeType": "+", "Name": "file", "Required": true, "BaseName": "file" }
+                { "ChangeType": "+", "Path": "mods/file", "Required": true },
+                { "ChangeType": "+", "Path": "mods/file copy", "Required": false }
             ]
         }
     ]
