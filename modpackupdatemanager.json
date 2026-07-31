@@ -134,6 +134,18 @@
             "Id": "1.0.2",
             "Name": "Test From App",
             "Type": "release"
+        },
+        {
+            "Changelog": [
+                {
+                    "ChangeType": "+",
+                    "Path": "mods/drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar"
+                }
+            ],
+            "Description": "I uhh changed it and stuff",
+            "Id": "1.0.3",
+            "Name": "Custom Loading Screen",
+            "Type": "release"
         }
     ]
 }
