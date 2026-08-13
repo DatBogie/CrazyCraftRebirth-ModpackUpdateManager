@@ -19,6 +19,22 @@
             "Id": "1.0.1",
             "Name": "Fluid Pipes",
             "Type": "release"
+        },
+        {
+            "Changelog": [
+                {
+                    "ChangeType": "-",
+                    "Path": "mods/betterpipes-1.20.1-2.2.3.jar"
+                },
+                {
+                    "ChangeType": "+",
+                    "Path": "mods/classicpipes-forge-1.20.1-1.1.6.jar"
+                }
+            ],
+            "Description": "Better Fluid Pipes doesn't work fsr\nSo now a new fluid pipe mod is here",
+            "Id": "1.0.2",
+            "Name": "Fluid Pipes (1)",
+            "Type": "release"
         }
     ]
 }
